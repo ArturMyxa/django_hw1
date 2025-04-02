@@ -34,3 +34,4 @@
 Описано [здесь](./HOW_TO_WORK.md).
 # django_hw1
 # Django_1
+# django_orm1
